@@ -1,0 +1,9 @@
+venv/
+.env
+known_ids.json
+filtered_items.json
+__pycache__/
+*.pyc
+.DS_Store
+prices_only.json
+vinted_scraper.log
