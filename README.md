@@ -27,7 +27,7 @@ A script for automatic monitoring of listings on [Vint**. / pl](https://www.vint
 git clone https://github.com/your_username/vinted-scraper-final.git
 cd vinted-scraper-final
 ``` 
-3. **Install required libraries:** 
+2. **Install required libraries:** 
 ```bash
 pip install -r requirements.txt
 ``` 
@@ -57,7 +57,7 @@ pip install -r requirements.txt
     }
   }
   ```
-4. You can also set environment variables in a `.env` file to override values in `config.json`:
+3. You can also set environment variables in a `.env` file to override values in `config.json`:
   - `TELEGRAM_BOT_TOKEN`
   - `TELEGRAM_CHAT_ID`
   - `TELEGRAM_CHANNEL_ID`
